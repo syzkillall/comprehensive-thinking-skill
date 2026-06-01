@@ -1,0 +1,4 @@
+interface:
+  display_name: "全面思考"
+  short_description: "用五重审视，从表层请求定位关键问题，并用大师逻辑与关键真实信息形成可验证判断。"
+  default_prompt: "Use $comprehensive-thinking to redefine the surface request into the user's deeper goal and key question, apply a combination of master theory systems, thinking angles, and thinking logic, collect the key real information required by that logic, reason systemically, pressure-test with opposing views and assumptions, then first present the five-review reasoning process and place the final judgment at the end, with boundaries and a verifiable path."
