@@ -1,0 +1,30 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+
+# Local editor state
+.vscode/
+.idea/
+
+# Build and temp output
+dist/
+build/
+tmp/
+temp/
